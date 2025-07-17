@@ -1,3 +1,3 @@
 daisyui: {
-  themes: ['light', 'dark'], // Add more like 'cupcake', 'luxury', etc.
-},
+  themes: ['light', 'dark'] // Add more like 'cupcake', 'luxury', etc.
+}
